@@ -1,16 +1,18 @@
-## Hi there 👋
+### ¡Hola! 👋 Soy Roberto Toquero
 
-<!--
-**RoberToquero/RoberToquero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador junior especializado en desarrollo de aplicaciones multiplataforma. Me encanta la programación y las nuevas tecnologías, y estoy en búsqueda de mi primera oportunidad profesional.
 
-Here are some ideas to get you started:
+### 🛠️ Habilidades
+- **Lenguajes:** Java, JavaScript, Python, HTML, CSS
+- **Frameworks:** Angular, Ionic, Spring
+- **Bases de Datos:** MySQL, MongoDB, Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Proyectos
+Estos son algunos de mis proyectos: 
+- [Aplicación de gestión de productos en Ionic](https://github.com/RoberToquero/mi-proyecto)
+- [API en Python para análisis de datos](https://github.com/RoberToquero/api-python)
+
+### 📫 ¡Conectemos!
+- [LinkedIn](http://www.linkedin.com/in/roberto-toquero-fernandez)
+- [Correo](mailto:roberto.toquero19@gmail.com)
+
