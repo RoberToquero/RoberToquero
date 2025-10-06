@@ -28,7 +28,7 @@ Soy un desarrollador junior especializado en desarrollo de aplicaciones multipla
 ### 📈 Proyectos destacados
 - [Aplicación de gestión de productos en Ionic](https://github.com/RoberToquero/mi-proyecto)
 - [API en Python para análisis de datos](https://github.com/RoberToquero/api-python)
-- **Proyectos de Machine Learning y Deep Learning** (https://github.com/RoberToquero/titanic-ml)
+- [Proyectos de Machine Learning y Deep Learning](https://github.com/RoberToquero/titanic-ml)
 
 ---
 
