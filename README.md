@@ -42,6 +42,7 @@ En mi día a día trabajo con **WordPress, Elementor, PHP y AJAX** desarrollando
 **Machine Learning / IA**
 - [🎯 Segmentación de clientes con clustering](https://github.com/RoberToquero/cluster-customer-segmentation) — Análisis no supervisado para agrupar clientes según patrones de comportamiento.
 - [🚢 Titanic ML](https://github.com/RoberToquero/titanic-ml) — Modelos de clasificación (Machine Learning) sobre el dataset clásico del Titanic.
+
 **Desarrollo Web / Apps**
 - [🛒 Woo Dashboard](https://github.com/RoberToquero/Woo-dashboard) — PWA que conecta con WooCommerce (REST API v3 + WC Bookings API), construida con Next.js 14 (App Router), React 18, Tailwind CSS, Zustand, TanStack Query v5, Framer Motion, NextAuth.js y caché con Redis (Upstash).
 - [📱 Aplicación de gestión de productos en Ionic](https://github.com/RoberToquero/mi-proyecto)
